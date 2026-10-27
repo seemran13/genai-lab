@@ -1,0 +1,4 @@
+provider,prompt_style,n,category_acc,priority_acc,failures,repair_retries,rate_limit_hits,mean_latency_s,p95_latency_s
+mock (simulated),zero_shot,24,0.708,0.708,0,0,0,0.016,0.017
+mock (simulated),few_shot,24,0.792,0.583,0,0,3,0.023,0.046
+mock (simulated),chain_of_thought,24,0.917,0.667,0,1,3,0.04,0.077
