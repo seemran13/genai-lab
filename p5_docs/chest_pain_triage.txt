@@ -1,0 +1,18 @@
+CHEST PAIN TRIAGE AND SUSPECTED ACUTE CORONARY SYNDROME
+
+Synthetic document for engineering practice. Not clinical guidance.
+
+1. Initial Assessment
+Any patient presenting with chest pain suggestive of a heart attack must have a 12-lead electrocardiogram (ECG) within ten minutes of arrival. Record vital signs, pain characteristics and risk factors such as diabetes, smoking and family history.
+
+2. ST-Elevation Myocardial Infarction
+ST-elevation myocardial infarction (STEMI) is identified by new ST elevation of at least 1 mm in two contiguous leads. Activate the cardiac catheterisation laboratory immediately. The target is primary percutaneous coronary intervention within 90 minutes of first medical contact. If this cannot be achieved within 120 minutes, give fibrinolytic therapy.
+
+3. Non-ST-Elevation Presentations
+In the absence of ST elevation, measure high-sensitivity troponin at presentation and again at three hours. A rising troponin with ischaemic symptoms indicates non-ST-elevation myocardial infarction (NSTEMI). A normal troponin on both samples with a low risk score allows safe early discharge.
+
+4. Initial Medical Therapy
+Give a loading dose of aspirin unless contraindicated. Provide oxygen only if saturation falls below 90 percent. Use sublingual glyceryl trinitrate for ongoing pain provided systolic blood pressure is above 90 mmHg.
+
+5. Red Flags for Alternative Diagnoses
+Tearing pain radiating to the back with unequal arm pressures suggests aortic dissection, and anticoagulation must be withheld until it is excluded. Pleuritic pain with sudden breathlessness suggests pulmonary embolism.

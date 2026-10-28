@@ -1,0 +1,18 @@
+HYPERTENSION MANAGEMENT IN PRIMARY CARE
+
+Synthetic document for engineering practice. Not clinical guidance.
+
+1. Diagnosis
+Hypertension is diagnosed when clinic blood pressure is 140/90 mmHg or higher on repeated measurement, confirmed by ambulatory or home monitoring. A home average of 135/85 mmHg or higher supports the diagnosis. Measure in both arms at the first visit and use the arm with the higher reading thereafter.
+
+2. Lifestyle Advice
+Offer all patients advice on reducing dietary salt to under 5 g per day, regular aerobic exercise, weight reduction where the body mass index is above 25, and limiting alcohol. Smoking cessation support should be offered at every visit.
+
+3. First-Line Drug Treatment
+For patients under 55 who are not of Black African or African-Caribbean origin, start an ACE inhibitor or an angiotensin receptor blocker. For patients aged 55 or over, or of Black African or African-Caribbean origin, start a calcium channel blocker. Check kidney function and potassium before and one to two weeks after starting an ACE inhibitor.
+
+4. Resistant Hypertension
+Blood pressure that stays above target despite three drugs including a diuretic at optimal doses is termed resistant hypertension. Before labelling a patient as resistant, confirm adherence, exclude white coat effect with ambulatory monitoring, and screen for secondary causes such as primary aldosteronism and renal artery stenosis.
+
+5. Hypertensive Emergency
+A blood pressure above 180/120 mmHg with signs of acute organ damage, for example chest pain, confusion, papilloedema or acute kidney injury, is a hypertensive emergency. Admit the patient for monitored intravenous treatment and lower the pressure gradually, aiming for a reduction of no more than 25% in the first hour.

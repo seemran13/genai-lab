@@ -1,0 +1,3 @@
+strategy,chunks,avg_words,max_words,hit@1,hit@3,hit@5,mrr@5,avg_context_words_top3
+fixed,18,84.2,90,0.706,1.0,1.0,0.824,255.8
+header,25,55.6,81,0.765,1.0,1.0,0.873,166.1
